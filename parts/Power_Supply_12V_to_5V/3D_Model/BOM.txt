@@ -1,0 +1,3 @@
+3DX_CUI_Supplier: CUI, Inc
+3DX_CUI_Description: 5 Vdc, 2 A, 10 W, 9~36 Vdc Input Range
+3DX_CUI_Model Number: PDQE10-Q24-S5-T
