@@ -776,7 +776,7 @@ protected:
           break;
         case 1:  // Editing month, increment up to 11.
           if (_edit_rtc_month < 12) {
-            _edit_rtc_minutes++;
+            _edit_rtc_month++;
           }
           break;
         case 2:  // Editing day, increment up to 31
