@@ -58,8 +58,11 @@ Here are the details highlighted:
 ![](assets/20230926_232623_Aqua_Clock_Back_Annotated.png)
 
 ## The Electronics
+Architecture:
+![](assets/Aqua_Clock_Architecture.png)
 
-
+Schematics:
+![](assets/Schematics_V1.png)
 ## The Software
 
 The Sparkfun ESP32 Thing Plus C is the heart of the controls assembly.
